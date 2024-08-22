@@ -1,0 +1,12 @@
+C:\Users\Lwethu\AppData\Local\Temporary Projects\KhaYelitshaHardwareStore\bin\Debug\KhaYelitshaHardwareStore.exe
+C:\Users\Lwethu\AppData\Local\Temporary Projects\KhaYelitshaHardwareStore\bin\Debug\KhaYelitshaHardwareStore.pdb
+C:\Users\Lwethu\AppData\Local\Temporary Projects\KhaYelitshaHardwareStore\bin\Debug\KhaYelitshaHardwareStore.xml
+C:\Users\Lwethu\AppData\Local\Temporary Projects\KhaYelitshaHardwareStore\obj\Debug\KhaYelitshaHardwareStore.Form1.resources
+C:\Users\Lwethu\AppData\Local\Temporary Projects\KhaYelitshaHardwareStore\obj\Debug\KhaYelitshaHardwareStore.Resources.resources
+C:\Users\Lwethu\AppData\Local\Temporary Projects\KhaYelitshaHardwareStore\obj\Debug\KhaYelitshaHardwareStore.vbproj.GenerateResource.Cache
+C:\Users\Lwethu\AppData\Local\Temporary Projects\KhaYelitshaHardwareStore\obj\Debug\KhaYelitshaHardwareStore.exe
+C:\Users\Lwethu\AppData\Local\Temporary Projects\KhaYelitshaHardwareStore\obj\Debug\KhaYelitshaHardwareStore.xml
+C:\Users\Lwethu\AppData\Local\Temporary Projects\KhaYelitshaHardwareStore\obj\Debug\KhaYelitshaHardwareStore.pdb
+C:\Users\Lwethu\Desktop\vb.net\KhaYelitshaHardwareStore\KhaYelitshaHardwareStore\obj\Debug\KhaYelitshaHardwareStore.exe
+C:\Users\Lwethu\Desktop\vb.net\KhaYelitshaHardwareStore\KhaYelitshaHardwareStore\obj\Debug\KhaYelitshaHardwareStore.xml
+C:\Users\Lwethu\Desktop\vb.net\KhaYelitshaHardwareStore\KhaYelitshaHardwareStore\obj\Debug\KhaYelitshaHardwareStore.pdb
